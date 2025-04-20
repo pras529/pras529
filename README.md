@@ -3,7 +3,7 @@
 <h3 align="right">🧠 Code. Debug. Repeat.</h3>
 <h3 align="right">📜 Certified API Expert</h3>
 <p align="center">
-  <img src="https://images.credly.com/size/340x340/images/7f6a8e7f-3d5e-46d1-b491-52cfc8c4263b/image.png" width="120" alt="Postman API Fundamentals Expert Badge">
+  <img src="[https://images.credly.com/size/340x340/images/7f6a8e7f-3d5e-46d1-b491-52cfc8c4263b/image.png](https://badgr.com/public/assertions/zXyyiQhESfqem_pwUUK6Sw)" width="120" alt="Postman API Fundamentals Expert Badge">
 </p>
 
 <p align="right">
