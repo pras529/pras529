@@ -1,4 +1,12 @@
-[![Futuristic Banner](https://raw.githubusercontent.com/pras529/pras529/main/futuristic_banner.png)](https://www.prashant.engineer)
+<div align="center">
+  <a href="https://www.prashant.engineer" target="_blank">
+    <img 
+      src="https://raw.githubusercontent.com/pras529/pras529/main/futuristic_banner.png" 
+      alt="Futuristic Banner" 
+      style="width: 100%; max-width: 1200px; height: auto; border-radius: 12px;"
+    />
+  </a>
+</div>
 
 
 # 💫 About Me:
