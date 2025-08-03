@@ -3,7 +3,7 @@
     <img 
       src="https://raw.githubusercontent.com/pras529/pras529/main/futuristic_banner.png" 
       alt="Futuristic Banner" 
-      style="width: 100%; max-width: 1200px; height: auto; border-radius: 12px;"
+      style="width: 100%; max-width: 1200px; height: 200px; border-radius: 12px;"
     />
   </a>
 </div>
