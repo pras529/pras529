@@ -1,4 +1,4 @@
-[![Futuristic Banner]([https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/futuristic_banner.png](https://github.com/pras529/pras529/blob/main/ChatGPT%20Image%20Aug%203%2C%202025%2C%2011_51_06%20PM.png))](https://www.prashant.engineer)
+[![Futuristic Banner](https://raw.githubusercontent.com/pras529/pras529/main/futuristic_banner.png)](https://www.prashant.engineer)
 
 
 # 💫 About Me:
